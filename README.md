@@ -9,13 +9,6 @@
 - 🌱 Estudante de desenvolvimento web e back-end
 - 💡 Curiosa por tecnologia, IoT e tudo que envolve inovação
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Milenafelisbelo&show_icons=true&theme=tokyonight&count_private=true&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenafelisbelo&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ### Onde me encontrar
